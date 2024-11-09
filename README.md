@@ -1,5 +1,10 @@
 # LipNet Implementation
 
+<img src="https://github.com/user-attachments/assets/aac974e6-6aae-42bf-8b76-b05ba62300ba" alt="Liplingo Poster" width="550" height="800">
+
+
+
+
 This repository contains an implementation of a lip reading model using TensorFlow and Keras. The model processes video frames to predict the spoken words using a combination of Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTM) networks.
 
 ## Table of Contents
